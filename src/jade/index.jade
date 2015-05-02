@@ -1,0 +1,27 @@
+doctype html(lang='ja')
+html
+  head
+    meta(charset='utf-8')
+    meta(name='viewport', content='width=device-width,initial-scale=1.0')
+    meta(http-equiv='X-UA-Compatible', content='ie=edge,chrome=1')
+    title koluku
+    link(rel='stylesheet', href='style.css')
+  body
+    #container
+      header#header
+        h1.logo
+          a(href='ブログURL') koluku
+      main#wrapper
+        .carousel
+          img(src='', alt='')
+        .articleList
+          h2.articleList-headline Articles
+          ul.articleList-nav
+            li
+              time.articleList-date ブログ記事投稿日
+              a.articleList-title(href='index.html') ブログ記事タイトル
+      footer#footer
+        small.copyright
+           | Copyright &copy; 2014-2015
+           a(href='https://twitter.com/koluku') @koluku
+           |  All Rights Reserved.
