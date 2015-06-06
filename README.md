@@ -14,4 +14,4 @@
 
 ## Author
 
-- [koluku](http://koluku.com)
+- [koluku](https://github.com/koluku)
