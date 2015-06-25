@@ -1,10 +1,6 @@
 module.exports = {
-  jade: {
-    files: 'src/jade/**/*.jade',
-    tasks: ['jade']
-  },
-  css: {
+  scss: {
     files: 'src/scss/**/*.scss',
-    tasks: ['compass','autoprefixer']
+    tasks: ['compass']
   }
 };

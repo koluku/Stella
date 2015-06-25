@@ -51,8 +51,10 @@
   }
 }
 .articleList {
+  margin: 0 10px;
+
   &-headline {
-    margin: 0;
+    margin: 8px 0;
     font-size: 32px;
     font-family: "satellite";
   }
