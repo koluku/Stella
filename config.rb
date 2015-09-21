@@ -3,11 +3,11 @@ require 'compass/import-once/activate'
 require 'sass-globbing'
 
 # Set this to the root of your project when deployed:
-http_path = "src/"
-css_dir = "src/"
-sass_dir = "src/scss/"
-images_dir = "src/image/"
-javascripts_dir = "src/js/"
+http_path = "html/"
+css_dir = "html/"
+sass_dir = "html/scss/"
+images_dir = "html/image/"
+javascripts_dir = "html/js/"
 
 # You can select your preferred output style here (can be overridden via the command line):
 # output_style = :expanded or :nested or :compact or :compressed
