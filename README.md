@@ -1,6 +1,6 @@
 # Stella
 
-![](src/screenshot.jpg)
+![](screenshot.jpg)
 
 "First step is simple design." シンプルで困ることはないだろう。
 
