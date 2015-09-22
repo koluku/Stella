@@ -1,0 +1,36 @@
+doctype html
+html
+  head
+    meta(charset='UTF-8')
+    meta(name='viewport', content='width=device-width,initial-scale=1.0')
+    meta(http-equiv='X-UA-Compatible', content='ie=edge,chrome=1')
+    title Stella
+    link(rel='canonical', href='https://koluku.github.io/stella')
+    link(rel='stylesheet', href='style.css')
+  body
+    #container
+      header#header
+        h1.logo
+          a(href='index.html') Stella
+        nav
+          ul.navbar
+            - var i = 3
+            while i--
+              li
+                a(href='page') Page
+      main#wrapper
+        .carousel
+          img(src='http://placehold.it/640x320', alt='')
+        .articleList
+          h2.articleList-headline Articles
+          ul.articleList-nav
+            - var i = 8
+            while i--
+              li
+                time.articleList-date ブログ記事投稿日
+                a.articleList-title(href='single.html') ブログ記事タイトル
+      footer#footer
+        small.copyright
+          | Copyright &copy; 2015
+          a(href='https://github.com/koluku') koluku
+          |  All Rights Reserved.
