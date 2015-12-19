@@ -1,0 +1,91 @@
+@charset "utf-8";
+
+.logo {
+  display: block;
+  width: 100%;
+  margin: 0;
+  clear: both;
+  color: #4d4d4d;
+  font-size: 100px;
+  font-family: "satellite", sans-serif;
+  font-weight: normal;
+  text-align: center;
+
+  @media screen and (max-width: 480px) {
+    line-height: 1;
+  }
+
+  a {
+    color: #333;
+    text-decoration: none;
+    transition: color .5s;
+
+    &:hover {
+      color: gray;
+    }
+  }
+}
+.navbar {
+  display: table;
+  width: 100%;
+  margin: 10px 0;
+  padding: 0;
+  list-style-type: none;
+  table-layout: fixed;
+
+  li {
+    display: table-cell;
+    font-size: 30px;
+    font-family: "satellite";
+    text-align: center;
+
+    a {
+      color: #333;
+      text-decoration: none;
+      transition: color .5s;
+
+      &:hover {
+        color: gray;
+      }
+    }
+  }
+}
+.articleList {
+  margin: 0 10px;
+
+  &-headline {
+    margin: 8px 0;
+    font-size: 32px;
+    font-family: "satellite";
+  }
+  &-nav {
+    margin: 0;
+    margin-left: 20px;
+    padding: 0;
+    list-style-type: none;
+  }
+  &-title {
+    color: #333;
+    text-decoration: none;
+    transition: color .5s;
+
+    &:hover {
+      color: gray;
+    }
+  }
+}
+.copyright {
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+
+ a {
+    color: #333;
+    text-decoration: none;
+  }
+}
+.page-title {
+  font-size: 36px;
+  font-family: "satellite";
+  font-weight: normal;
+}
