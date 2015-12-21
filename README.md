@@ -1,7 +1,4 @@
-# Stella
-
-[![Build Status](https://travis-ci.org/koluku/stella.svg?branch=master)](https://travis-ci.org/koluku/stella)
-[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
+# Stella [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 
 ![](screenshot.jpg)
 
