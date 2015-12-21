@@ -18,14 +18,11 @@
   },
   "homepage": "https://github.com/koluku/stella#readme",
   "devDependencies": {
-    "browser-sync": "^2.9.3",
+    "del": "^2.2.0",
     "gulp": "^3.9.0",
-    "gulp-imagemin": "^2.4.0",
-    "gulp-jade": "^1.1.0",
     "gulp-notify": "^2.2.0",
     "gulp-pleeease": "^2.0.2",
     "gulp-plumber": "^1.0.1",
-    "gulp-sass": "^2.1.0",
-    "imagemin-pngquant": "^4.2.0"
+    "gulp-sass": "^2.1.0"
   }
 }
