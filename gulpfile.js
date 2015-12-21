@@ -6,8 +6,8 @@ var pleeease    = require('gulp-pleeease');
 var sass        = require('gulp-sass');
 
 paths = {
-  root: ['./']
-  css : ['./*.css']
+  root: ['./'],
+  css : ['./*.css'],
   scss: ['./scss/*.scss']
 }
 dels = ['./scss/']
