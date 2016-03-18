@@ -1,10 +1,11 @@
-# Stella [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
+# Stella
 
 ![](screenshot.jpg)
 
 ## Description
 
-このリポジトリはWordPress向けのデザインテーマです。配色は白と黒のみのモノクロ調に仕上げ、シングルカラムで構成されています。
+このリポジトリはWordPress向けのデザインテーマです。配色は白と黒のみのモノクロ調に仕上げ、シングルカラムで構成されています。  
+作者が飽きたために開発終了しました。今後のアップデートの予定はありません。
 
 ## Licence
 
