@@ -1,11 +1,8 @@
-# Alice
-
-![](screenshot.png)
+# Stella pre-build
 
 ## Description
 
-このリポジトリはTwitter風のデザインのWebページ…を作っていた跡です。  
-作っていて飽きたので作成をやめました。今後のアップデートの予定はありません。
+このリポジトリは[alice](https://github.com/koluku/alice)の前段階として開発されたデザインテンプレートです。
 
 ## Licence
 
